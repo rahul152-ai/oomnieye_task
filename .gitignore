@@ -1,0 +1,43 @@
+# Node
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+npm-debug.log*
+.DS_Store
+.env
+
+# VS Code
+.vscode/
+
+# Python
+.dirstack
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.python-version
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Build output
+dist/
+build/
+
+# Backend static videos folder
+backend/videos/
+
+# Detection service temp data
+.detection-cache/
+
+# Frontend public videos if re-added accidentally
+frontend/public/videos/
