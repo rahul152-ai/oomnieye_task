@@ -33,11 +33,6 @@ Desktop.ini
 dist/
 build/
 
-# Backend static videos folder
-backend/videos/
 
 # Detection service temp data
 .detection-cache/
-
-# Frontend public videos if re-added accidentally
-frontend/public/videos/
